@@ -1,0 +1,17 @@
+{
+  "name": "assignment-2",
+  "version": "1.0.0",
+  "description": "Namaste React Course - Assignment 2",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "Mohit Dhule",
+  "license": "ISC",
+  "browserslist": [
+    ">0.2%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
